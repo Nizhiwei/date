@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "i-button": "../../static/dist/button/index",
+    "i-card": "../../static/dist/card/index",
+    "i-modal": "../../static/dist/modal/index"
+  }
+}
